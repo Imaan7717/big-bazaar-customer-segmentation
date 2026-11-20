@@ -46,7 +46,6 @@ Through this project, I gained practical experience in:
 Completed.
 
 ## Author
-## Author
 
 **Imaan Gill**  
 B.Tech – Electrical Engineering  
