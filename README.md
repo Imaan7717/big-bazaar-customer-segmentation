@@ -3,6 +3,12 @@
 ## Project Overview
 This project focuses on segmenting customers into distinct groups using the K-Means Clustering algorithm. The objective is to identify customer purchasing patterns based on annual income and spending behaviour, helping businesses develop more effective marketing and promotional strategies.
 
+## Dataset Information
+
+This project uses a synthetic academic dataset designed to simulate customer purchasing behaviour. It contains customer-related attributes such as annual income and spending patterns.
+
+The dataset is used for educational purposes to demonstrate customer segmentation through unsupervised machine learning. It does not represent actual Big Bazaar customer records.
+
 ## Problem Statement
 Big Bazaar aims to divide its customers into meaningful segments to better understand their purchasing behaviour, improve customer engagement, and optimise promotional campaigns.
 
